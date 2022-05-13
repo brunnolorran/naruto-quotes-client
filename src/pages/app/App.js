@@ -1,6 +1,12 @@
+import narutoImg from "../../images/naruto.png"
+
 export function App() {
   return (
-   <h1>Hello</h1>
+    <div>
+      <p>quote 01 - Speaker</p>
+      <button>Quote no Jutsu</button>
+      <img src={narutoImg} alt="Naruto with a kunai"/>
+    </div>
   );
 }
 
