@@ -14,3 +14,4 @@ Run the application with `npm start` command, it will start the app on [localhos
 ```sh
 $ npm start
 ```
+
